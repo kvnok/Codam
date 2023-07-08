@@ -19,3 +19,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:c-herrewijn/minishell.git
+[submodule "philo"]
+	path = philo
+	url = git@github.com:kvnok/philo.git
