@@ -22,3 +22,6 @@
 [submodule "philo"]
 	path = philo
 	url = git@github.com:kvnok/philo.git
+[submodule "cub3D"]
+	path = cub3D
+	url = git@github.com:kvnok/cub3D.git
